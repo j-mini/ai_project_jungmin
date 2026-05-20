@@ -28,7 +28,7 @@ function handleStartClick() {
     showMessage(name + "님, 환영합니다! AI 협업 개발 실습을 시작합니다.", "success");
   } else {
     // 이름이 없으면 경고 메시지를 노란색으로 출력합니다.
-    showMessage("이름을 먼저 입력해주세요.", "warning");
+    showMessage("이름을 입력한 뒤 다시 시도해주세요", "warning");
   }
 }
 
