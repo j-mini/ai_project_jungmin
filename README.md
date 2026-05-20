@@ -1,2 +1,2 @@
 # ai_project_jungmin
-# codex vs claude 실습
+# codex vs claude 실습!!
